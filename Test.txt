@@ -1,7 +1,11 @@
 				Hola Test
+<<<<<<< HEAD
 
 
 		yave chino
 
 				ESTA    prueba  es  para    verificar   .
 sdasdasd
+=======
+Elmer	David	Yave	Chino	5756150	OR.
+>>>>>>> 32dbf8342d5a7aeccfad3acc59966ddd1b9d6ae7
